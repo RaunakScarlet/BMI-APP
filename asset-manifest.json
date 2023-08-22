@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BMI-APP/static/css/main.59dbe65d.css",
+    "main.js": "/BMI-APP/static/js/main.922ffdbb.js",
+    "index.html": "/BMI-APP/index.html",
+    "main.59dbe65d.css.map": "/BMI-APP/static/css/main.59dbe65d.css.map",
+    "main.922ffdbb.js.map": "/BMI-APP/static/js/main.922ffdbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59dbe65d.css",
+    "static/js/main.922ffdbb.js"
+  ]
+}
